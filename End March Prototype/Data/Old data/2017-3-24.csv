@@ -1,0 +1,9 @@
+Day of month,Date,Vent Temperature,Ambient Temperature,Difference in Temperature,Vent Open/Closed,Power(W),Energy(kWh),Total Energy(kWh)
+24,"Mar 24, 2017 18:35:01",22.375,21.5,0.875,False,0,0,0
+24,"Mar 24, 2017 18:36:01",22.375,21.5,0.875,False,0,0,0
+24,"Mar 24, 2017 18:36:17",22.375,21.5,0.875,False,0,0,0,Program has started
+24,"Mar 24, 2017 18:36:20",22.25,21.5,0.75,True,39.656,0.0,0
+24,"Mar 24, 2017 18:36:23",22.25,21.5,0.75,True,39.656,0.0,0
+24,"Mar 24, 2017 18:36:25",22.625,21.5,1.125,True,59.484,0.0,0
+24,"Mar 24, 2017 18:36:28",22.937,21.5,1.437,True,75.981,0.0,0
+24,"Mar 24, 2017 18:36:31",22.937,21.5,1.437,True,75.981,0.0,0

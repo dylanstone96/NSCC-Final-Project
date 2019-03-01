@@ -1,0 +1,1 @@
+The directory "/Data" will be erased and overwritten upon reinserting the usb into the raspberry pi

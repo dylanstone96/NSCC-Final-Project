@@ -1,0 +1,8 @@
+Day of month,Date,Vent Temperature,Ambient Temperature,Difference in Temperature,Vent Open/Closed,Power(W),Energy(kWh),Total Energy(kWh)
+27,"Mar 27, 2017 18:35:01",22.875,21.5,1.375,False,0,0,0
+27,"Mar 27, 2017 18:35:03",22.875,21.562,1.313,False,0,0,0
+27,"Mar 27, 2017 18:35:17",22.812,21.5,1.312,True,69.372,0.0,0
+27,"Mar 27, 2017 18:35:20",22.812,21.5,1.312,True,69.372,0.0,0
+27,"Mar 27, 2017 18:35:23",22.812,21.5,1.312,True,69.372,0.0,0
+27,"Mar 27, 2017 18:35:25",22.812,21.5,1.312,True,69.372,0.0,0
+27,"Mar 27, 2017 18:35:28",22.75,21.5,1.25,False,0,0,0.0
