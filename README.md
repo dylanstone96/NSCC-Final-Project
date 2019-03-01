@@ -1,12 +1,11 @@
  
  # NSCC-Final-Project 
- # Ivany Campus, Dartmouth, NS, Canada, 2017
+ Ivany Campus, Dartmouth, NS, Canada, 2017
  
-Cansolair Efficiency Monitoring Using an Arduino
+ # Cansolair Efficiency Monitoring Using an Arduino
 
 
 Following are the people I would like to thank for their assistance and support throughout various aspects of my project throughout late 2016 and early 2017.
-
 Faculty of NSCC:
 •	Glenn Macleod
 •	Steve MacCarron
